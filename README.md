@@ -98,7 +98,9 @@ Android manifest.xml
 ```
 ## OUTPUT
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/73ec7f2d-d5cb-40c4-a7db-479d2464d519" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae0c0cb5-0fcf-423c-bb63-7b35a471a888" />
 
 
 ## RESULT
